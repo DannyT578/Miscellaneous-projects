@@ -13,7 +13,7 @@ Think of it as my “creative sandbox” — from sketches to CAD experiments, o
 
 ## ⚙️ Experimental Projects
 - [CAD Experiments](link-to-folder-or-repo) – Testing out design ideas in CAD-style modeling.  
-- [Mini Physics Simulations]([link-to-folder-or-repo](https://github.com/DannyT578/UnityEngine2DFluidSimulation)) – Little scripts or prototypes showing particles, waves, or mechanics in action.  
+- [Mini Physics Simulations](https://github.com/DannyT578/UnityEngine2DFluidSimulation) – Little scripts or prototypes showing particles, waves, or mechanics in action.  
 
 ---
 

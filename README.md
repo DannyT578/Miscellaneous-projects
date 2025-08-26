@@ -17,7 +17,7 @@ Think of it as my “creative sandbox” — from sketches to CAD experiments, o
 
 ---
 
-## 🎲 Random Fun Stuff
+## 🎲 Random Fun Stuff (currently empty)
 - [Unfinished Game Demos](link-to-folder-or-repo) – Projects I started for fun or testing new ideas.  
 - [Other Weird Experiments](link-to-folder-or-repo) – Sometimes code + sketches + weird ideas = ???  
 

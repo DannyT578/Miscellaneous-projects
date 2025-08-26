@@ -6,7 +6,7 @@ Think of it as my “creative sandbox” — from sketches to CAD experiments, o
 ---
 
 ## 🖌️ Sketches & Art
-- [Organic Sketches Collection](link-to-folder-or-repo) – My attempt at drawing animals, plants, and things that look vaguely sci-fi.  
+- [Organic Sketches Collection](https://github.com/DannyT578/Random-Art-Sketches) – My attempt at drawing animals, plants, and things that look vaguely sci-fi.  
 - [Mechanical Concepts](link-to-folder-or-repo) – Early sketches of machines, contraptions, and “what if” designs.
 
 ---
